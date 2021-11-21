@@ -1,4 +1,4 @@
-#Requirements
+# Requirements
 * User input for value of money they want to play for
 * Depending on users **input value of money** they want to play they got number of chances for guessing or a range of predicting the right number
 * Depending on the users inputs for money, range or chances of guess the actual **Random number generated** will not startiing checking with the users input number which they guessed
