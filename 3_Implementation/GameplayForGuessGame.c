@@ -1,5 +1,5 @@
 #include <Gameplay.h> 
-//will be saved in .c format==>Gameplay.c
+//will be saved in .c format==>GameplayForGuessGame.c
 void PlayGameForGuessGame(Chances)
 {
   for(int x=0;x<Chances;x++)
