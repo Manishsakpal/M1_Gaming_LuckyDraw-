@@ -7,7 +7,7 @@ A project based on real games played as this project includes two different game
 Winner get the respective winning amount based on he enroll the game for the play
 
 
-## FOLDER STRUCTURE
+# FOLDER STRUCTURE
 
 | Folder          |       Discription                                               |
 | ----------------- | ------------------------------------------------------------------ |
