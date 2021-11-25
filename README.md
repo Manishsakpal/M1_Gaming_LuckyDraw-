@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/manishsakpal/m1_gaming_luckydraw-/badge)](https://www.codefactor.io/repository/github/manishsakpal/m1_gaming_luckydraw-)
+
 # M1_Gaming_LuckyDraw-
 
 # Discription 
@@ -20,8 +22,6 @@ Winner get the respective winning amount based on he enroll the game for the pla
   7_Other|Other Information|
   8_Source Code|Program execution code|
   
-![code quality score](https://api.codiga.io/project/29942/score/svg)
 
-![Quality grade](https://api.codiga.io/project/29942/status/svg)
 # As well the video repo demonstracting and of live workiing
 https://user-images.githubusercontent.com/86291115/143456079-a084409d-dc00-47fb-839d-857df8d9a7c5.mp4
