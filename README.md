@@ -1,5 +1,6 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/manishsakpal/m1_gaming_luckydraw-/badge)](https://www.codefactor.io/repository/github/manishsakpal/m1_gaming_luckydraw-)
-
+![Build Status](https://api.codiga.io/project/30084/score/svg)
+![Build Status](https://api.codiga.io/project/30084/status/svg)
 # M1_Gaming_LuckyDraw-
 
 # Discription 
