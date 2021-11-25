@@ -15,3 +15,6 @@ High Level Test Plan
 | -- | -- | -- | -- | -- | -- |
 | TID 1              | 	1 | User play for 5rs on Stone paper sizer user enter "S" and computer generated "P" | 	You Loss better luck next time	 | You Loss better luck next time	 | PASS | 
 | TID 2              | 	2 | kept the user input "3" and "7" for 10rs with Guess game as computer generated "6" and "9" respectively | 	You Loss better luck next time	 | You Loss better luck next time	 | PASS | 
+
+# In the belowed Video i have live demonstrated working of my project please check 02:30(mm:ss) on wards
+https://user-images.githubusercontent.com/86291115/143456079-a084409d-dc00-47fb-839d-857df8d9a7c5.mp4
